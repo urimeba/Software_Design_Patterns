@@ -1,0 +1,13 @@
+C:\Users\Urimeba\Documents\Visual Studio 2013\Projects\observadorConexion\observadorConexion\bin\Debug\observadorConexion.exe.config
+C:\Users\Urimeba\Documents\Visual Studio 2013\Projects\observadorConexion\observadorConexion\obj\Debug\observadorConexion.csprojResolveAssemblyReference.cache
+C:\Users\Urimeba\Documents\Visual Studio 2013\Projects\observadorConexion\observadorConexion\obj\Debug\observadorConexion.ObservadorConcreto.resources
+C:\Users\Urimeba\Documents\Visual Studio 2013\Projects\observadorConexion\observadorConexion\obj\Debug\observadorConexion.SujetoConcreto.resources
+C:\Users\Urimeba\Documents\Visual Studio 2013\Projects\observadorConexion\observadorConexion\obj\Debug\observadorConexion.Properties.Resources.resources
+C:\Users\Urimeba\Documents\Visual Studio 2013\Projects\observadorConexion\observadorConexion\obj\Debug\observadorConexion.csproj.GenerateResource.Cache
+C:\Users\Urimeba\Documents\Visual Studio 2013\Projects\observadorConexion\observadorConexion\bin\Debug\observadorConexion.exe
+C:\Users\Urimeba\Documents\Visual Studio 2013\Projects\observadorConexion\observadorConexion\bin\Debug\observadorConexion.pdb
+C:\Users\Urimeba\Documents\Visual Studio 2013\Projects\observadorConexion\observadorConexion\obj\Debug\observadorConexion.exe
+C:\Users\Urimeba\Documents\Visual Studio 2013\Projects\observadorConexion\observadorConexion\obj\Debug\observadorConexion.pdb
+C:\Users\Urimeba\Documents\UAQ\3 SEMESTRE\Patrones\12 - Observer\observadorConexion\bin\Debug\observadorConexion.exe.config
+C:\Users\Urimeba\Documents\UAQ\3 SEMESTRE\Patrones\12 - Observer\observadorConexion\obj\Debug\observadorConexion.exe
+C:\Users\Urimeba\Documents\UAQ\3 SEMESTRE\Patrones\12 - Observer\observadorConexion\obj\Debug\observadorConexion.pdb
